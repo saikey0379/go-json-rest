@@ -8,7 +8,7 @@ import (
 
 	"golang.org/x/net/context"
 
-	"github.com/saikey0379/go-json-rest/v3/rest/test"
+	"go-json-rest/rest/test"
 )
 
 func TestAccessLogApacheMiddleware(t *testing.T) {
