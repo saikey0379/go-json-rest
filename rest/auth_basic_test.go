@@ -4,7 +4,7 @@ import (
 	"encoding/base64"
 	"testing"
 
-	"go-json-rest/rest/test"
+	"github.com/saikey0379/go-json-rest/rest/test"
 	"golang.org/x/net/context"
 )
 

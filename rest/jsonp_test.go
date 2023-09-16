@@ -5,7 +5,7 @@ import (
 
 	"golang.org/x/net/context"
 
-	"go-json-rest/rest/test"
+	"github.com/saikey0379/go-json-rest/rest/test"
 )
 
 func TestJSONpMiddleware(t *testing.T) {

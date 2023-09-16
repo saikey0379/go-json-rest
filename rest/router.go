@@ -6,7 +6,7 @@ import (
 	"net/url"
 	"strings"
 
-	"go-json-rest/rest/trie"
+	"github.com/saikey0379/go-json-rest/rest/trie"
 	"golang.org/x/net/context"
 )
 

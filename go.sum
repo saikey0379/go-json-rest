@@ -1,4 +1,2 @@
-github.com/saikey0379/go-json-rest v1.0.0 h1:ve8zEwUfWV4e9oJqCMCTOwkqVGgAC48ogRSkCwExbEQ=
-github.com/saikey0379/go-json-rest v1.0.0/go.mod h1:FH7q3VrvAa9o7SF0r3gjA/l9iHYLZJN11eFT2j6kq3g=
 golang.org/x/net v0.15.0 h1:ugBLEUaxABaB5AJqW9enI0ACdci2RUd4eP51NTBvuJ8=
 golang.org/x/net v0.15.0/go.mod h1:idbUs1IY1+zTqbi8yxTbhexhEEk5ur9LInksu6HrEpk=
